@@ -1,0 +1,8 @@
+Installation:
+
+git clone https://github.com/skyloid/dotvim.git
+
+Create Symlinks
+
+ln -s ~/.vim/vimrc ~/.vimrc
+
